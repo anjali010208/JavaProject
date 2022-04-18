@@ -1,2 +1,2 @@
 # JavaProject
-Bike rental system
+Implementation of Priority queues for bike rental system
